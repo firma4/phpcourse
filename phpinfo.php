@@ -3,8 +3,7 @@
  * Created by PhpStorm.
  * User: herbertneumann
  * Date: 23.02.18
- * Time: 19:38
+ * Time: 20:30
  */
-$zahl = 42;
-echo "Die Zahl ist $zahl";
+phpinfo();
 ?>
